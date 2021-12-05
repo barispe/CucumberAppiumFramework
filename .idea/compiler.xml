@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="GetirApp" />
-        <module name="getirApp-master" />
+        <module name="iPaint" />
+        <module name="iPaint-Master" />
         <module name="SampleApp" />
       </profile>
     </annotationProcessing>
